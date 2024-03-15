@@ -1,2 +1,2 @@
-# sql-parse-eng2jpn
-parse eng sql file to jpn analysis file
+# get-file-data-from-excel
+obtain data from excel files and into local db
